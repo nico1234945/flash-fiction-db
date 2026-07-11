@@ -21,7 +21,13 @@ Please **do** contact me if a magazine is included which charges fees.
 
 Magazines must publish short fiction that is 1500 words or fewer. Please **do** contact me if I have missed a magazine which publishes fiction of this length, so long as it meets the other criteria.
 
+Magazines must not publish stories behind a paywall. 
+This is a practical matter, as I cannot access their stories!
+
 To start with, I have limited the set of magazines to those which publish genre fiction (science fiction, fantasy, or horror) and which pay authors USD $0.08 or more per word. This is mostly a time-saving mechanism. If I stick with the project or get more people involved, I am happy to expand that!
+
+### Anthologies and Collections
+I am not currently tracking flash published in anthologies and collections, since the stories these contain are not typically posted online.
 
 ### Stories
 Stories must not be written using AI.
